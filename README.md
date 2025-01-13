@@ -2,6 +2,6 @@
 
 02.Computer Systems(Computer Science){space}{space}
 
-03.Software Development(Software Engineering)\
+03.Software Development(Software Engineering){space}{space}
 
 04.Domain Specialization
