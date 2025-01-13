@@ -7,10 +7,16 @@
   Operating System <br />
   Platform & Framework <br /> <br />
 
-3.Software Development (Software Engineering) <br />
+3.Programming <br />
+   Python <br />
+   Java <br />
+   C/C++ <br />
+   Source Control Tools (Git) <br />
+   UML <br /> <br />
+
+4.Software Development (Software Engineering) <br />
   Software Development Life Cycle (SDLC) <br />
   Object Oriented Analysis and Design (OOAD) <br />
-  UML <br />
   Architecture <br />
   Design Patterns <br />
   System Design <br />
@@ -20,10 +26,10 @@
   DataBase <br />
   Testing & Debugging <br /> <br />
 
-4.Domain Specialization <br />
+5.Domain Specialization <br />
   Artificial Intelligence <br />
   Data Science <br />
   IoT <br />
   Robotics <br />  <br />
 
-5.Professionalism <br /> <br />
+6.Professionalism <br /> <br />
