@@ -1,7 +1,6 @@
 1.Fundamentals <br />
   Math & Physics <br />
-  Data Structure & Algorithms <br />
-  Profesionalism <br /> <br /> 
+  Data Structure & Algorithms <br /> <br />
 
 2.Computer Systems (Computer Science) <br />
   Networks <br />
@@ -21,8 +20,10 @@
   DataBase <br />
   Testing & Debugging <br /> <br />
 
-4.Domain Specialization <br/>
+4.Domain Specialization <br />
   Artificial Intelligence <br />
   Data Science <br />
   IoT <br />
-  Robotics <br />
+  Robotics <br />  <br />
+
+5.Professionalism <br /> <br />
