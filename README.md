@@ -5,3 +5,5 @@
 03.Software Development(Software Engineering) <br />
 
 04.Domain Specialization
+   AI
+   Data Science
