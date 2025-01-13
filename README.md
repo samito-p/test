@@ -1,9 +1,9 @@
-01.Fundamentals <br />
+1. Fundamentals <br />
 
-02.Computer Systems(Computer Science) <br />
+2. Computer Systems(Computer Science) <br />
 
-03.Software Development(Software Engineering) <br />
+3. Software Development(Software Engineering) <br />
 
-04.Domain Specialization
-   AI
+4. Domain Specialization <br/>
+   Artificial Intelligence <br />
    Data Science
