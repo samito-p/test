@@ -1,10 +1,7 @@
-01.Fundamentals
+01.Fundamentals <br />
 
+02.Computer Systems(Computer Science) <br />
 
-02.Computer Systems(Computer Science)
-
-
-03.Software Development(Software Engineering)
-
+03.Software Development(Software Engineering) <br />
 
 04.Domain Specialization
