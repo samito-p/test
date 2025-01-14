@@ -88,7 +88,7 @@ The process of creating, testing, and maintaining software systems.
     - DevSecOps refers to the practice of integrating security into the software development lifecycle from the earliest stages of development, through testing and deployment, all the way to maintenance and operation.
 <!-- tocstop -->
 
-## Domain-Specific Software Engineering
+## Specific Fields in Software Engineering
 <!-- toc -->
 - Artificial Intelligence
     - A broad field that encompasses the development of intelligent machines that can think and act like humans.
@@ -101,6 +101,8 @@ The process of creating, testing, and maintaining software systems.
 - IoT (Internet of Things)
     - The network of physical devices, vehicles, home appliances, and other items embedded with sensors, software, and connectivity, allowing them to collect and exchange data.
 - Robotics
+    - A field that involves the design, construction, operation, and control of robots, often for applications such as manufacturing, healthcare, and transportation.
+- Embedded Systems
     - A field that involves the design, construction, operation, and control of robots, often for applications such as manufacturing, healthcare, and transportation.
 <!-- tocstop -->
 
