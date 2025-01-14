@@ -3,16 +3,17 @@
   Data Structure & Algorithms <br /> <br />
 
 2.Computer Systems (Computer Science) <br />
-  Networks <br />
   Operating System <br />
-  Platform & Framework <br /> <br />
+  Platform & Framework <br />
+  Networks <br />
+  Cloud & Conatiner/Kubernetes <br /> <br />
 
 3.Programming <br />
    Python <br />
    Java <br />
    C/C++ <br />
-   Source Control Tools (Git) <br />
-   UML <br /> <br />
+   UML <br />
+   Source Control Tools (Git/Github) <br /> <br />
 
 4.Software Development (Software Engineering) <br />
   Software Development Life Cycle (SDLC) <br />
