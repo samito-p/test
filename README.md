@@ -6,7 +6,8 @@
   Operating System <br />
   Platform & Framework <br />
   Networks <br />
-  Cloud & Conatiner/Kubernetes <br /> <br />
+  Cloud <br />
+  Conatiner & Kubernetes <br /> <br />
 
 3.Programming (Languages) <br />
    Python <br />
