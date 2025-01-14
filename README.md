@@ -1,5 +1,5 @@
 # Becoming a Software Engineer
-To become a software engineer, you'll typically need to acquire a strong foundation in programming languages (e.g., Python, Java), data structures and algorithms, and software design patterns. You should also have a solid understanding of computer science concepts, such as object-oriented programming and software engineering principles.
+To become a software engineer, you'll typically need to acquire a strong foundation in programming languages (e.g., Python, Java), data structures and algorithms, and software design patterns. You should also have a solid understanding of computer science concepts, such as object-oriented programming and software engineering principles. 
 
 ## Fundamentals
 A foundation in mathematics and physics is essential for understanding computer science concepts.
@@ -44,7 +44,7 @@ The foundation of modern computing, including hardware and software components.
 - Clouding computing
     - A remote computing environment that provides virtualized resources and services over the internet.
     - Examples: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
-- Conatiner & Kubernetes
+- Conatiners & Kubernetes
     - Containers provide a lightweight and portable way to deploy applications in a consistent manner across different environments.
     - Kubernetes is an orchestration system that automates the deployment, scaling, and management of containers.
     - Benefits: improved deployment speed, reduced errors, and increased scalability
