@@ -44,7 +44,7 @@ The foundation of modern computing, including hardware and software components.
 - Clouding computing
     - A remote computing environment that provides virtualized resources and services over the internet.
     - Examples: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
-- Conatiners & Kubernetes
+- Containers & Kubernetes
     - Containers provide a lightweight and portable way to deploy applications in a consistent manner across different environments.
     - Kubernetes is an orchestration system that automates the deployment, scaling, and management of containers.
     - Benefits: improved deployment speed, reduced errors, and increased scalability
