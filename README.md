@@ -8,7 +8,7 @@
   Networks <br />
   Cloud & Conatiner/Kubernetes <br /> <br />
 
-3.Programming <br />
+3.Programming (Languages) <br />
    Python <br />
    Java <br />
    C/C++ <br />
