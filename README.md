@@ -84,7 +84,7 @@ The process of creating, testing, and maintaining software systems.
 - Testing & Debugging
     - The process of verifying that software systems meet the required specifications and are free from errors.
     - Includes testing for functionality, performance, security, and reliability
-- DecSecOps (Development Security Operations)
+- DevSecOps (Development Security Operations)
     - DevSecOps refers to the practice of integrating security into the software development lifecycle from the earliest stages of development, through testing and deployment, all the way to maintenance and operation.
 <!-- tocstop -->
 
