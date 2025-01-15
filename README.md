@@ -65,9 +65,50 @@ The process of creating, testing, and maintaining software systems.
 - Architectures
     - A design approach for structuring software systems, which can include:
         1. Monolithic architecture
-        2. Microservices architecture
-- Design Patterns
+        2. Client/Server architecture
+        3. WWW/N-Tier architecture        
+        4. Service Oriented architecture
+        5. Distibuted architecture                
+        6. Microservices architecture
+        7. Micro Frontend + Microservices architecture
+        8. Serverless architecture
+        9. Event Driven architecture
+        10. Layered architecture
+        11. Onion architecture
+        12. Clean architecture
+        13. Domain Driven architecture
+        14. Model Driven architecture
+        15. Hexagonal (Port & adpater) architecture
+        16. CQRS (Command Query Responsibility Segregation) architecture
+        17. Plugin architecture
+- Design Patterns (GoF)
     - Reusable solutions to common problems that have been observed in software development.
+        - Creational Patterns
+            1. Abstract Factory
+            2. Builder
+            3. Factory Method
+            4. Prototype
+            5. Singleton
+        - Structural Patterns
+            1. Adapter (Wrapper): Compatability - Open/Close Principles 
+            2. Bridge
+            3. Composite
+            4. Decorator (Wrapper): Adding/changing behavior - Composition, Single Responsiblity, Open/Close Principles  
+            5. Facade (Wrapper): Simplicity
+            6. Flyweight
+            7. Proxy
+        - Behavioral Patterns
+            1. Chanin of Responsibility
+            2. Command
+            3. Interpreter
+            4. Iterator
+            5. Mediator
+            6. Memento
+            7. Observer
+            8. State
+            9. Strategy
+            10. Template Method
+            11. Visitor
 - System Design
     - The process of designing the overall structure and organization of a software system.
 - Secure Coding
