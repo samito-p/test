@@ -44,10 +44,12 @@ The foundation of modern computing, including hardware and software components.
 - Clouding computing
     - A remote computing environment that provides virtualized resources and services over the internet.
     - Examples: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+    - Cloud Native Computing Foundation: https://landscape.cncf.io/?view-mode=grid
 - Containers & Kubernetes
     - Containers provide a lightweight and portable way to deploy applications in a consistent manner across different environments.
     - Kubernetes is an orchestration system that automates the deployment, scaling, and management of containers.
     - Benefits: improved deployment speed, reduced errors, and increased scalability
+
 <!-- tocstop -->
 
 ## Software Development 
@@ -104,9 +106,9 @@ The process of creating, testing, and maintaining software systems.
             4. Iterator
             5. Mediator
             6. Memento
-            7. Observer
+            7. Observer (Publish/Subscribe)
             8. State
-            9. Strategy
+            9. Strategy (Select an algorithm at runtime)
             10. Template Method
             11. Visitor
 - System Design
@@ -135,6 +137,7 @@ The process of creating, testing, and maintaining software systems.
     - A broad field that encompasses the development of intelligent machines that can think and act like humans.
 - Data Science
     - The application of data analysis and modeling techniques to extract insights and knowledge from data.
+    -
 - Graphics
     - A domain that involves creating visual representations of information using various techniques, such as 2D and 3D graphics, animation, and rendering.
 - Game
